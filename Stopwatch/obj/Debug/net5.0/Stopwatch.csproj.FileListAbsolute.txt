@@ -1,0 +1,16 @@
+D:\ProjetosDotNet\Stopwatch\bin\Debug\net5.0\Stopwatch.exe
+D:\ProjetosDotNet\Stopwatch\bin\Debug\net5.0\Stopwatch.deps.json
+D:\ProjetosDotNet\Stopwatch\bin\Debug\net5.0\Stopwatch.runtimeconfig.json
+D:\ProjetosDotNet\Stopwatch\bin\Debug\net5.0\Stopwatch.runtimeconfig.dev.json
+D:\ProjetosDotNet\Stopwatch\bin\Debug\net5.0\Stopwatch.dll
+D:\ProjetosDotNet\Stopwatch\bin\Debug\net5.0\ref\Stopwatch.dll
+D:\ProjetosDotNet\Stopwatch\bin\Debug\net5.0\Stopwatch.pdb
+D:\ProjetosDotNet\Stopwatch\obj\Debug\net5.0\Stopwatch.csproj.AssemblyReference.cache
+D:\ProjetosDotNet\Stopwatch\obj\Debug\net5.0\Stopwatch.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjetosDotNet\Stopwatch\obj\Debug\net5.0\Stopwatch.AssemblyInfoInputs.cache
+D:\ProjetosDotNet\Stopwatch\obj\Debug\net5.0\Stopwatch.AssemblyInfo.cs
+D:\ProjetosDotNet\Stopwatch\obj\Debug\net5.0\Stopwatch.csproj.CoreCompileInputs.cache
+D:\ProjetosDotNet\Stopwatch\obj\Debug\net5.0\Stopwatch.dll
+D:\ProjetosDotNet\Stopwatch\obj\Debug\net5.0\ref\Stopwatch.dll
+D:\ProjetosDotNet\Stopwatch\obj\Debug\net5.0\Stopwatch.pdb
+D:\ProjetosDotNet\Stopwatch\obj\Debug\net5.0\Stopwatch.genruntimeconfig.cache

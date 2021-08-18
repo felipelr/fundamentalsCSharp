@@ -1,0 +1,16 @@
+D:\ProjetosDotNet\EditorHTML\bin\Debug\net5.0\EditorHTML.exe
+D:\ProjetosDotNet\EditorHTML\bin\Debug\net5.0\EditorHTML.deps.json
+D:\ProjetosDotNet\EditorHTML\bin\Debug\net5.0\EditorHTML.runtimeconfig.json
+D:\ProjetosDotNet\EditorHTML\bin\Debug\net5.0\EditorHTML.runtimeconfig.dev.json
+D:\ProjetosDotNet\EditorHTML\bin\Debug\net5.0\EditorHTML.dll
+D:\ProjetosDotNet\EditorHTML\bin\Debug\net5.0\ref\EditorHTML.dll
+D:\ProjetosDotNet\EditorHTML\bin\Debug\net5.0\EditorHTML.pdb
+D:\ProjetosDotNet\EditorHTML\obj\Debug\net5.0\EditorHTML.csproj.AssemblyReference.cache
+D:\ProjetosDotNet\EditorHTML\obj\Debug\net5.0\EditorHTML.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjetosDotNet\EditorHTML\obj\Debug\net5.0\EditorHTML.AssemblyInfoInputs.cache
+D:\ProjetosDotNet\EditorHTML\obj\Debug\net5.0\EditorHTML.AssemblyInfo.cs
+D:\ProjetosDotNet\EditorHTML\obj\Debug\net5.0\EditorHTML.csproj.CoreCompileInputs.cache
+D:\ProjetosDotNet\EditorHTML\obj\Debug\net5.0\EditorHTML.dll
+D:\ProjetosDotNet\EditorHTML\obj\Debug\net5.0\ref\EditorHTML.dll
+D:\ProjetosDotNet\EditorHTML\obj\Debug\net5.0\EditorHTML.pdb
+D:\ProjetosDotNet\EditorHTML\obj\Debug\net5.0\EditorHTML.genruntimeconfig.cache
